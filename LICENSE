@@ -1,6 +1,11 @@
 BSD 2-Clause License
 
-Copyright (c) 2017, Biomimetic Millisystems Lab
+Copyright (c) 2017, Regents of the University of California
+  Contributors: Austin D. Buchan and Duncan W. Haldane
+  Affiliation: Biomimetic Millisystems Laboratory, P.I. Ronald S. Fearing
+  URL: https://github.com/biomimetics/auto_pwa
+  Citation: A. D. Buchan, D. W. Haldane and R. S. Fearing, "Automatic identification of dynamic piecewise affine models for a running robot," 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems, Tokyo, 2013, pp. 5600-5607. doi: 10.1109/IROS.2013.6697168
+  
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
