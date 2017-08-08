@@ -2,8 +2,9 @@
 Matlab software for sensor fusion and Automatic Piecewise Affine model generation and analysis.
 
 Citation:
-A. D. Buchan, D. W. Haldane and R. S. Fearing, "Automatic identification of dynamic piecewise affine models for a running robot," 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems, Tokyo, 2013, pp. 5600-5607. doi: 10.1109/IROS.2013.6697168
+  A. D. Buchan, D. W. Haldane and R. S. Fearing, "Automatic identification of dynamic piecewise affine models for a running robot," 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems, Tokyo, 2013, pp. 5600-5607. doi: 10.1109/IROS.2013.6697168
 
+BibTeX:
 ```latex
 @INPROCEEDINGS{buchan_2013_iros,
   author={A. D. Buchan and D. W. Haldane and R. S. Fearing},
